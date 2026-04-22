@@ -9,9 +9,9 @@ Guia rápido e prático de **Git Flow** para estudo e consulta no dia a dia.
 * [📖 Conceito](#-conceito)
 * [🌳 Estrutura de Branches](#-estrutura-de-branches)
 * [🔄 Fluxo de Trabalho](#-fluxo-de-trabalho)
-* [🏷️ Versionamento](#-versionamento)
+* [🏷️ Versionamento](#%EF%B8%8F-versionamento)
 * [📌 Boas Práticas](#-boas-práticas)
-* [⚠️ Quando usar](#️-quando-usar)
+* [⚠️ Quando usar](#%EF%B8%8F-quando-usar)
 * [🔁 Alternativas](#-alternativas)
 * [🧠 Resumo Rápido](#-resumo-rápido)
 
