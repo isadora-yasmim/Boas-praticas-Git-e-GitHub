@@ -30,10 +30,10 @@ Este repositório é um **hub de conhecimento** com práticas reais de mercado p
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-🔹 Guias diretos ao ponto
-🔹 Exemplos reais
-🔹 Padrões utilizados na indústria
-🔹 Conteúdo aplicável imediatamente
+<p align="center">
+  ◆ Guias diretos ao ponto ◆ Padrões utilizados na indústria ◆ Conteúdo aplicável
+</p>
+
 
 ---
 
@@ -129,18 +129,13 @@ Depois é só abrir um PR 🚀
 
 ---
 
-## 📜 Licença
-
-MIT — use livremente.
-
----
-
-## 💬 Observação final
-
-Não existe uma única forma correta —
-mas existe forma **profissional** de fazer.
+<p align="center">
+  <img src="./assets/cat.gif" width="300"/>
+</p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b0/fe/e3/b0fee33d7a8e955e72da5d06e6713e43.gif" width="100"/>
+  <strong>Boas práticas importam.</strong><br>
+  Não existe uma única forma correta, mas existem formas mais profissionais de fazer.
 </p>
+
 
