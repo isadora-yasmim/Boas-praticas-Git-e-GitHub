@@ -6,14 +6,14 @@ Guia rápido e prático de **Conventional Commits** para padronização de commi
 
 ## 📑 Índice
 
-* [Conceito](#conceito)
-* [Estrutura do Commit](#estrutura-do-commit)
-* [Tipos Principais](#tipos-principais)
-* [Tipos Adicionais](#tipos-adicionais)
-* [Banco de Dados](#banco-de-dados)
-* [Boas Práticas](#boas-práticas)
-* [Exemplos](#exemplos)
-* [Escopos](#escopos)
+* [Conceito](#-conceito)
+* [Estrutura do Commit](-#estrutura-do-commit)
+* [Tipos Principais](#-tipos-principais)
+* [Tipos Adicionais](#%EF%B8%8F-tipos-adicionais)
+* [Banco de Dados](#%EF%B8%8F-banco-de-dados)
+* [Boas Práticas](#-boas-práticas)
+* [Exemplos](#-exemplos)
+* [Escopos](#-escopos)
 
 ---
 
