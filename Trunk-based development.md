@@ -6,15 +6,15 @@ Guia rápido e prático de **Trunk-Based Development (TBD)** para estudo e consu
 
 ## 📑 Índice
 
-* [Conceito](#conceito)
-* [Estrutura de Branches](#estrutura-de-branches)
-* [Fluxo de Trabalho](#fluxo-de-trabalho)
-* [Feature Flags](#feature-flags)
-* [Integração Contínua](#integração-contínua)
-* [Boas Práticas](#boas-práticas)
-* [Quando usar](#quando-usar)
-* [Comparação com Git Flow](#comparação-com-git-flow)
-* [Resumo Rápido](#resumo-rápido)
+* [Conceito](#-conceito)
+* [Estrutura de Branches](#-estrutura-de-branches)
+* [Fluxo de Trabalho](#-fluxo-de-trabalho)
+* [Feature Flags](#-feature-flags)
+* [Integração Contínua](#-integração-contínua-1)
+* [Boas Práticas](#-boas-práticas)
+* [Quando usar](#%EF%B8%8F-quando-usar)
+* [Comparação com Git Flow](#-comparação-com-git-flow)
+* [Resumo Rápido](#-resumo-rápido)
 
 ---
 
