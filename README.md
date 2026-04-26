@@ -30,10 +30,17 @@ Este repositório é um **hub de conhecimento** com práticas reais de mercado p
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-<p align="center">
-  ◆ Guias diretos ao ponto ◆ Padrões utilizados na indústria ◆ Conteúdo aplicável
-</p>
-
+* [🎯 Domine o fluxo de desenvolvimento moderno](#-domine-o-fluxo-de-desenvolvimento-moderno)
+* [✨ O que você vai encontrar aqui](#-o-que-você-vai-encontrar-aqui)
+* [📚 Guias disponíveis](#-guias-disponíveis)
+  * [🧾 Conventional Commits](#-conventional-commits)
+  * [🌳 Git Flow](#-git-flow)
+  * [⚡ Trunk-based Development](#-trunk-based-development)
+* [⚙️ Como usar este repositório](#️%EF%B8%8F-como-usar-este-repositório)
+* [🧠 Conceitos-chave](#-conceitos-chave)
+* [🛠️ Boas práticas essenciais](#️%EF%B8%8F-boas-práticas-essenciais)
+* [🚧 Em breve...](#-em-breve)
+* [🤝 Contribua](#-contribua)
 
 ---
 
@@ -115,6 +122,27 @@ cd seu-repo
 
 ---
 
+## 🚧 Em breve...
+
+Este repositório está em constante evolução. Em breve, novos guias e materiais serão adicionados para torná-lo ainda mais completo e alinhado com práticas profissionais de mercado.
+
+### 📌 Próximos conteúdos
+
+- [ ] 🌿 GitHub Flow (fluxo simplificado para times modernos)
+- [ ] 🔀 Guia de Pull Requests profissionais
+- [ ] 🧾 Template de Pull Request (PR Template)
+- [ ] 🌱 Padrão de nomes de branches (Branch Naming)
+- [ ] 🛡️ Guia completo de `.gitignore` (Python, Node, Docker, etc.)
+- [ ] ⚔️ Resolução de conflitos no Git (na prática)
+- [ ] 🏷️ Tags, Releases e Versionamento Semântico (SemVer)
+- [ ] 🧰 Comandos essenciais do Git (guia rápido)
+- [ ] 🧼 Boas práticas para histórico limpo (rebase, squash, etc.)
+- [ ] 🤝 Guia de contribuição (CONTRIBUTING.md)
+- [ ] 📜 Changelog automático e boas práticas
+- [ ] 📂 Templates de Issues (GitHub)
+
+---
+
 ## 🤝 Contribua
 
 Quer melhorar esse projeto?
@@ -126,8 +154,6 @@ git push origin feat/minha-contribuicao
 ```
 
 Depois é só abrir um PR 🚀
-
----
 
 <p align="center">
   <img src="./assets/cat.gif" width="300"/>
