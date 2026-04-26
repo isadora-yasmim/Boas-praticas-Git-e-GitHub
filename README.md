@@ -36,9 +36,9 @@ Este repositório é um **hub de conhecimento** com práticas reais de mercado p
   * [🧾 Conventional Commits](#-conventional-commits)
   * [🌳 Git Flow](#-git-flow)
   * [⚡ Trunk-based Development](#-trunk-based-development)
-* [⚙️ Como usar este repositório](#️%EF%B8%8F-como-usar-este-repositório)
+* [⚙️ Como usar este repositório](#️-como-usar-este-repositório)
 * [🧠 Conceitos-chave](#-conceitos-chave)
-* [🛠️ Boas práticas essenciais](#️%EF%B8%8F-boas-práticas-essenciais)
+* [🛠️ Boas práticas essenciais](#️-boas-práticas-essenciais)
 * [🚧 Em breve...](#-em-breve)
 * [🤝 Contribua](#-contribua)
 
