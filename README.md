@@ -155,6 +155,8 @@ git push origin feat/minha-contribuicao
 
 Depois é só abrir um PR 🚀
 
+---
+
 <p align="center">
   <img src="./assets/cat.gif" width="300"/>
 </p>
